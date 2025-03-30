@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in Neural Information Processing Systems},
+  25:1097--1105, 2012.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em Nature}, 521(7553):436--444, 2015.
+
+\bibitem{pawara2017comparing}
+Pornntiwa Pawara, Emmanuel Okafor, Olarik Surinta, Lambert Schomaker, and Marco
+  Wiering.
+\newblock Comparing local descriptors and bags of visual words to deep
+  convolutional neural networks for plant recognition.
+\newblock {\em Pattern Recognition and Image Analysis}, 27:351--362, 2017.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{wu2019plant}
+SG~Wu, FS~Bao, EY~Xu, YX~Wang, YF~Chang, and QL~Xiang.
+\newblock Plant species classification using deep convolutional neural network.
+\newblock {\em Biosystems Engineering}, 182:151--162, 2019.
+
+\end{thebibliography}

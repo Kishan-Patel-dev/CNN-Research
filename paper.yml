@@ -1,0 +1,35 @@
+jtex: v1
+title: Leaf Classification Using A Custom CNN
+description: A deep learning approach for classifying Indian herbal plant leaves using Convolutional Neural Networks
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - name: Kishan Patel, Jayesh Shinde, Meghraj Patel, Jash Dhimmar
+    affiliations:
+      - Asha M Tarsadia Institute of Computer Science and Technology
+    orcid: 0009-0004-6689-1333
+tags:
+  - research
+  - deep-learning
+  - computer-vision
+  - plant-classification
+  - CNN
+parts:
+  - id: abstract
+    required: true
+    description: Research paper abstract on leaf classification using CNN
+    max_chars: 1920
+  - id: acknowledgments
+    description: Acknowledgments section
+doc:
+  - id: title
+    required: true
+  - id: authors
+    required: true
+  - id: keywords
+    required: true
+  - id: bibliography
+options:
+  - id: link
+    type: string
+    description: Link to your article 
