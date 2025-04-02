@@ -87,9 +87,8 @@ The research paper uses the following datasets and references:
 
 ## Author
 
-- Author: [Your Name]
-- Institution: [Your Institution]
-- Contact: [Your Email]
+- Author: Kishan Patel
+- Institution: AMTICS
 
 ## License
 
@@ -100,13 +99,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Template based on [Kishan Patel's preprint template](https://github.com/Kishan-Patel-dev/preprint-template.tex)
 - Special thanks to all contributors and researchers whose work is referenced in this paper
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Issues
 
